@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **azureeeeeeeeeeee/azureeeeeeeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,10 +7,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Rio</h1>
-- 👨 `Rio`
-- 🎂 `19 years old`
-- 🏫 I’m currently learning : `Scikit-learn`, `Tensorflow`
-- ⚡ Fun fact: `Can play rubik's cube`
+<p>👨 <code>Rio</code></p>
+<p>🎂 <code>19 years old</code></p>
+<p>🏫 Currently learning : <code>Scikit-learn</code>, <code>Tensorflow</code></p>
+<p>⚡ Fun fact : <code>Can play rubik's cube</code></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azureeeeeeeeeeee&label=Profile%20views&color=0e75b6&style=flat" alt="azureeeeeeeeeeee" /> </p>
 
 
