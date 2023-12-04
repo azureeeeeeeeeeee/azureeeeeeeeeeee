@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azureeeeeeeeeeee&show_icons=true&count_private=true&theme=materialpalenight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="azureeeeeeeeeeee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azureeeeeeeeeeee&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000"alt="azureeeeeeeeeeee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azureeeeeeeeeeee&theme=material-palenight&hide_border=true&background=FFFFFF00&bg_color=00000000" alt="azureeeeeeeeeeee" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azureeeeeeeeeeee&theme=material_palenight&bg_color=00000000" alt="azureeeeeeeeeeee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azureeeeeeeeeeee&theme=tokyonight&bg_color=00000000" alt="azureeeeeeeeeeee" /></a> </p>
