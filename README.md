@@ -4,17 +4,15 @@
 **azureeeeeeeeeeee/azureeeeeeeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
+
+<h1 align="center">Hi 👋, I'm Rio</h1>
 - 👨 `Rio`
 - 🎂 `19 years old`
 - 🏫 I’m currently learning : `Scikit-learn`, `Tensorflow`
 - ⚡ Fun fact: `Can play rubik's cube`
-
-<h1 align="center">Hi 👋, I'm Rio</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azureeeeeeeeeeee&label=Profile%20views&color=0e75b6&style=flat" alt="azureeeeeeeeeeee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azureeeeeeeeeeee" alt="azureeeeeeeeeeee" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azureeeeeeeeeeee&show_icons=true&locale=en&layout=compact" alt="azureeeeeeeeeeee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azureeeeeeeeeeee&show_icons=true&locale=en" alt="azureeeeeeeeeeee" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azureeeeeeeeeeee" alt="azureeeeeeeeeeee" /></a> </p>
