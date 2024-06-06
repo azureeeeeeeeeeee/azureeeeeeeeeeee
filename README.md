@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Rio</h1>
 <p>👨 <code>Rio</code></p>
 <p>🎂 <code>19 years old</code></p>
-<p>🏫 Currently learning : <code>Django</code>
+<p>🏫 Currently learning : <code>Dart</code>
 <p>⚡ Fun fact : <code>Play rubik's cube</code></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azureeeeeeeeeeee&label=Profile%20views&color=0e75b6&style=flat" alt="azureeeeeeeeeeee" /> </p>
