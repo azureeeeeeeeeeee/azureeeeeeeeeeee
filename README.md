@@ -23,7 +23,10 @@
   <a href="https://www.linkedin.com/in/riosputra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://www.instagram.com/_rio.nndo/" target="_blank">
+    
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -43,7 +46,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Student<br>- 📚 I'm currently learning Django Rest Framework</p>
+<p align="left">- 🔭 I’m a Student<br>- 📚 I'm currently learning Django Rest Framework</p>
 
 ###
 
