@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Student<br>- 📚 I'm currently learning Django Rest Framework</p>
+<p align="left">- 🔭 I’m a Student<br>- 📚 I'm currently learning <code>PHP</code></p>
 
 ###
 
