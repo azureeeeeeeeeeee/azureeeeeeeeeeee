@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Student<br>- 📚 I'm currently learning <code>PHP</code> & <code>React Native</code></p>
+<p align="left">- 🔭 I’m a Student<br>- 📚 I'm currently learning <code>PHP</code> & <code>React Native</code><br>- 🔎 Sub 20 in 3x3 Rubiks cube with PB of 7s</p>
 
 ###
 
