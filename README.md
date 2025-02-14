@@ -82,6 +82,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
 </div>
 
 ###
@@ -98,8 +100,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
 </div>
 
 ###
