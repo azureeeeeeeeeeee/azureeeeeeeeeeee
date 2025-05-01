@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Student<br>- 📚 I'm currently learning <code>Java</code> & <code>Spring Boot</code><br>- 🔎 Sub 20 in 3x3 Rubiks cube with PB of 7.29s</p>
+<p align="left">- 🔭 I’m a Student<br>- 📚 I'm currently learning <code>Dart</code> & <code>Flutter</code><br>- 🔎 Sub 20 in 3x3 Rubiks cube with PB of 7.29s</p>
 
 ###
 
