@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Student<br>- 📚 I'm currently learning <code>Dart</code> & <code>Flutter</code><br>- 🔎 Sub 20 in 3x3 Rubiks cube with PB of 7.29s</p>
+<p align="left">- 🔭 I’m a Student<br>- 📚 I'm currently learning <code>Golang</code> & <code>Kubernetes</code><br>- 🔎 Sub 20 in 3x3 Rubiks cube with PB of 7.29s</p>
 
 ###
 
@@ -90,6 +90,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
+###
+
+
+<h3 align="left">🔧 Tools</h3>
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dockercompose" height="40" alt="docker compose logo" />
+</div>
 ###
 
 <h3 align="left">📚 Want to learn</h3>
